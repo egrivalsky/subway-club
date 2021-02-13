@@ -5,11 +5,11 @@ https://www.flickr.com/photos/mtaphotos
 https://developer.cityofnewyork.us/api
 https://api.mta.info/#/landing
 https://metro.fandom.com/wiki/List_of_New_York_City_Subway_stations
-/blob/[branch]/image.jpg?raw=true)
+
 
 ## Wireframes
-![alt text](https://github.com/egrivalsky/subway-club/blob/main/home.png?raw=true)
-![alt text](https://github.com/egrivalsky/subway-club/blob/main/sign-up.png?raw=true)
-![alt text](https://github.com/egrivalsky/subway-club/blob/main/sign-in.png?raw=true)
-![alt text](https://github.com/egrivalsky/subway-club/blob/main/random-station.png?raw=true)
-![alt text](https://github.com/egrivalsky/subway-club/blob/main/landing.png?raw=true)
+![Home](https://github.com/egrivalsky/subway-club/blob/main/home.png?raw=true)
+![Sign Up(https://github.com/egrivalsky/subway-club/blob/main/sign-up.png?raw=true)
+![Sign In](https://github.com/egrivalsky/subway-club/blob/main/sign-in.png?raw=true)
+![Randome Station](https://github.com/egrivalsky/subway-club/blob/main/random-station.png?raw=true)
+![Landing](https://github.com/egrivalsky/subway-club/blob/main/landing.png?raw=true)
