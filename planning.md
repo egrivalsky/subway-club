@@ -9,7 +9,7 @@ https://metro.fandom.com/wiki/List_of_New_York_City_Subway_stations
 
 ## Wireframes
 ![Home](https://github.com/egrivalsky/subway-club/blob/main/home.png?raw=true)
-![Sign Up(https://github.com/egrivalsky/subway-club/blob/main/sign-up.png?raw=true)
+![Sign Up](https://github.com/egrivalsky/subway-club/blob/main/sign-up.png?raw=true)
 ![Sign In](https://github.com/egrivalsky/subway-club/blob/main/sign-in.png?raw=true)
 ![Randome Station](https://github.com/egrivalsky/subway-club/blob/main/random-station.png?raw=true)
-![Landing](https://github.com/egrivalsky/subway-club/blob/main/landing.png?raw=true)
+![Landing](https://github.com/egrivalsky/subway-club/blob/main/find-station.png?raw=true)
