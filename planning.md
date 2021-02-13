@@ -38,9 +38,9 @@ Search for a specific station
 ![Landing](https://github.com/egrivalsky/subway-club/blob/main/find-station.png?raw=true)
 
 ## Potential Resources
-https://lucid.app/lucidchart/invitations/accept/ee8a96ab-5dd8-40f5-a72a-b9a38c6b184a
-https://www.figma.com/file/RQAAacFFn3mB3NYDPLjpzG/Untitled?node-id=0%3A1
-https://www.flickr.com/photos/mtaphotos
-https://developer.cityofnewyork.us/api
-https://api.mta.info/#/landing
-https://metro.fandom.com/wiki/List_of_New_York_City_Subway_stations
+* https://lucid.app/lucidchart/invitations/accept/ee8a96ab-5dd8-40f5-a72a-b9a38c6b184a
+* https://www.figma.com/file/RQAAacFFn3mB3NYDPLjpzG/Untitled?node-id=0%3A1
+* https://www.flickr.com/photos/mtaphotos
+* https://developer.cityofnewyork.us/api
+* https://api.mta.info/#/landing
+* https://metro.fandom.com/wiki/List_of_New_York_City_Subway_stations
