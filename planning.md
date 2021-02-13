@@ -7,6 +7,29 @@ https://api.mta.info/#/landing
 https://metro.fandom.com/wiki/List_of_New_York_City_Subway_stations
 
 
+## User Stories
+
+### As a logged in user:
+* I want to be able to see photos and average ratings of subway stations
+* I want to be able to see comments and individual reviews of NYC subway stations.
+* I want to rate subway stations
+* I want to leave comments about subway stations.
+* I'd like to see photos of subway stations.
+* I want to rate a subway station.
+* I'd like to be able to find a specific subway station
+* I'd like to keep a list of favorite subway stations
+* I'd like to have a profile page
+* I'd like to be able to click on another username and see that profile page
+
+
+### As a non-logged-in user:
+* I want to log into the app.
+* I want a way to create an account.
+* I want to be able to see photos
+* I want to see average ratings of subway stations
+* I want to see the most recent comment on the given station
+
+
 ## Wireframes
 ![Home](https://github.com/egrivalsky/subway-club/blob/main/home.png?raw=true)
 ![Sign Up](https://github.com/egrivalsky/subway-club/blob/main/sign-up.png?raw=true)
